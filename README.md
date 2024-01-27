@@ -2,6 +2,8 @@
 - ⚡ As an experienced software engineer, I take pride in developing practical & time-saving software and add value to the products & organization.
 
 - 🔭 To leverage & improve my problem-solving skills, I frequently participate in coding contests and learn from mistakes.
+  
+- 🔭 As Iam a working professional most of my work goes into github--enterprise.
 
 - 💬 Skilled at Problem-Solving, Data structures, Algorithms, Object Oriented Programming with Go, C++, Java.
 
